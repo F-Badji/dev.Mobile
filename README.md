@@ -28,18 +28,4 @@ Ecole :
 
 Classe :
 - **L3 IAGE**
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# dev_mobile
-# Dev_Mobil
-# dev.Mobile
+
